@@ -1,2 +1,0 @@
-3ddata\control\Res\stateicon.dds
-
