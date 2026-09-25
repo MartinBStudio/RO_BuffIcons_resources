@@ -1,4 +1,2 @@
-This pack installs 2 files. To uninstall, delete these:
-
 3ddata\control\Res\stateicon.dds
 res\stateicon.dds
